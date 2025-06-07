@@ -1,0 +1,2 @@
+Olá,
+Para fazer a rotação das peças utilize as teclas "Q" e "W", para ir para direita, esquerda e descer mais rápido utilize as setas.  
